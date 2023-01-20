@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shuta-hagimori
-- 👀 I’m interested in web application
-- 🌱 I’m currently learning react.js + typescript
-- 📫 How to reach me ...shuta.hagimori@hagikapu.art
+- interested: art & classical music & piano & technical pursuing.
+- frontend engineer for 2 years
+- graduated university of Tokyo
+- lives in NARA prefecture in Japan
+- 
